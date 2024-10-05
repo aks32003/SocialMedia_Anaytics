@@ -25,7 +25,7 @@ Predicting multiple target variables (e.g., like counts, comment counts) using a
 **Error Analysis:**
 Evaluation of models based on Mean Absolute Error (MAE).
 
-**Technologies Used**
+## Technologies Used ##
 * Python : Pandas, Numpy, Seaborn, Matplotlib
 
 Machine Learning:
